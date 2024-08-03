@@ -2,7 +2,7 @@
 - 👀 I’m interested in building machine learning models
 - 🌱 I’m currently learning Masters in Analytics at Georgia Tech
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 📫 How to reach me https://www.linkedin.com/in/li-wen-huang-a6a51077/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love painting 
 
